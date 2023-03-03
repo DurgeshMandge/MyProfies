@@ -1,7 +1,7 @@
 .bd1{
     background: linear-gradient(#0042AA, rgb(100,156,210));
     color: white;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Merriweather', serif;
     text-align: center;
     padding: 0%;
 }
@@ -9,7 +9,7 @@
 .bd2{
     background: linear-gradient(#ffffff,#5b5de7) ;
     color: white;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Merriweather', serif;
     text-align: center;
 }
 .content{
